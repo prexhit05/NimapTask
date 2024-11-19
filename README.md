@@ -80,6 +80,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
+```
 **Use Case:**
 This project is ideal for understanding the implementation of RESTful APIs with relational database management and hierarchical entity relationships in an e-commerce system. It serves as a foundation for larger systems with complex relationships and data handling requirements.
 
